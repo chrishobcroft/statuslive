@@ -8,7 +8,7 @@ Status is holding a hackathon from 26-29 October 2018. The objective is to devel
 
 [Status](https://status.im/) has a _Mobile Ethereum Operating System_ app for Android, which includes wallet functionality.
 
-[Livepeer](https://livepeer.org/) is an open-source video infrastructure, with 
+[Livepeer](https://livepeer.org/) is an open-source video infrastructure, with services for livestreaming.
 
 ## Objective
 
