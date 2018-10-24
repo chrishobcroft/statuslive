@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/2212651/47438511-e6b78880-d7aa-11e8-8cbb-74e4e859b589.png)
+
 # Status Live
 
 This repository is to store information for the project as part of #cryptolife hackathon to implement livestreaming functionality in Status App using Livepeer's open-source video infrastructure.
